@@ -1,0 +1,49 @@
+body,
+.nav {
+  font-family: "Roboto", sans-serif;
+  background: #222d32;
+}
+
+.nav {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+#home {
+  height: 75vh;
+}
+
+h1 {
+  color: #17a2b8;
+}
+
+input {
+  background: #1a2226 !important;
+}
+
+input::placeholder {
+  color: rgb(207, 207, 207) !important;
+}
+
+.Card {
+  background: #1a2226;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  width: 60%;
+}
+
+.form-control {
+  color: white;
+}
+
+.form-control:focus {
+  color: white;
+  box-shadow: none;
+  caret-color: white;
+}
+
+.fa-pagelines {
+  font-size: 100px;
+}
+
+.text-green {
+  color: #28a745;
+}
